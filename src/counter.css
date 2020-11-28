@@ -1,0 +1,45 @@
+body{
+    width: 100%;
+    background-color: #c7bcbc;
+   
+}
+
+.container{
+    margin: 100px 600px;
+}
+
+.item{
+    display: flex;
+}
+
+.btn{
+    background-color: #c7bcbc;
+    border: 1px solid #237d94;
+    color: #6779a0;
+    border-radius: 5px;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    margin: 20px;
+
+    
+        
+}
+.btn:hover{
+    background-color: #ca8b8b;
+    
+}
+
+.count {
+    font-size: 60px;  
+    opacity: 0.8;  
+}
+
+.reset{
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 20px;
+    margin: 60px;
+
+
+}
